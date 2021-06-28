@@ -767,7 +767,7 @@ class _CSCPickerState extends State<CSCPicker> {
 //                   ),
                   stateDropdown(),
                   SizedBox(
-                    height: 20.0,
+                    height: 30.0,
                   ),
                   cityDropdown()
                 ],
