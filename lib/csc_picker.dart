@@ -761,13 +761,13 @@ class _CSCPickerState extends State<CSCPicker> {
             ? Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  countryDropdown(),
-                  SizedBox(
-                    height: 10.0,
-                  ),
+//                   countryDropdown(),
+//                   SizedBox(
+//                     height: 10.0,
+//                   ),
                   stateDropdown(),
                   SizedBox(
-                    height: 10.0,
+                    height: 20.0,
                   ),
                   cityDropdown()
                 ],
